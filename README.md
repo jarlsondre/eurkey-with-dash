@@ -9,3 +9,5 @@ This version adds them, so you can now type:
 
 This is the macOS version, based on:  
 https://github.com/jonasdiemer/EurKEY-Mac
+
+It overrides the characters with keycode 27 at index 3 and index 4 in the `keylayout` file.
